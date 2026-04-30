@@ -1,4 +1,4 @@
-# 📰 Fake News Detector (ML + NLP)
+# 📰 Fake News Detector
 
 A machine learning-based web application that classifies news articles as **Real** or **Fake** using Natural Language Processing techniques and a deployed interactive interface.
 
