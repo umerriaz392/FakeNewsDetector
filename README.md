@@ -69,7 +69,7 @@ fakenewsdetector/
 
 ```bash
 git clone https://github.com/umerriaz392/FakeNewsDetector
-cd fake-news-detector
+cd FakeNewsDetector
 pip install -r requirements.txt
 ```
 
